@@ -1,7 +1,7 @@
 ## hi, i'm anna 🤎
 
-🍀 studying speech & language processing at trinity college dublin<br/>
-🏹 thesis topic: modifying tts to output different accents of english<br/>
+🍀 recent speech & language processing grad at trinity college dublin<br/>
+🏹 thesis topic: modifying tts pipeline to output different accents of english<br/>
 🌞 tts, asr, nlu/natural language, dsp
 
 ## 🪩 socials:
